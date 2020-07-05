@@ -2,6 +2,8 @@
 
 # 网易云信 Flutter插件
 
+[![pub package](https://img.shields.io/pub/v/netease_live_fluttify.svg)](https://pub.Flutter-io.cn/packages/netease_live_fluttify)
+
 **专业版为付费插件, 如有需要请联系qq 382146139**
 
 **专业版为付费插件, 如有需要请联系qq 382146139**
