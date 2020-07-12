@@ -1,6 +1,6 @@
 ![Logo](https://github.com/fluttify-project/fluttify-core-example/blob/develop/other/Logo-Landscape.png?raw=true)
 
-# 网易云信 Flutter插件
+# 网易直播推流 Flutter插件
 
 [![pub package](https://img.shields.io/pub/v/netease_live_fluttify.svg)](https://pub.Flutter-io.cn/packages/netease_live_fluttify)
 
@@ -59,6 +59,11 @@ import 'package:netease_live_fluttify/netease_live_fluttify.dart';
 
 ## 使用
 参考[wiki](https://github.com/fluttify-project/netease_live_fluttify/wiki).
+
+## 社区
+| QQ群 |
+| :----------: |
+| <img src="https://github.com/fluttify-project/fluttify-project/blob/master/resources/1593774713224_temp_qrcode_share_9993.png?raw=true" height="300"> | 
 
 |       | 社区版 | 专业版 |
 |:-----:|:-----:|:-----:|
